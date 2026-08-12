@@ -1,0 +1,4 @@
+customer.csv
+transaction.csv
+__pycache__/
+*.pyc
